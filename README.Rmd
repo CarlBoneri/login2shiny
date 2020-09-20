@@ -16,13 +16,16 @@ knitr::opts_chunk$set(
 
 The goal of login2shiny is to ...
 
+
+
 ## Installation
 
-You can install the released version of login2shiny from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of login2shiny from [![git](man/figures/github.svg)](https://github.com/CarlBoneri/login2shiny) with:
 
-``` r
-install.packages("login2shiny")
+```{r eval=FALSE, include=TRUE}
+remotes::install_github("CarlBoneri/login2shiny")
 ```
+
 
 ## Example
 

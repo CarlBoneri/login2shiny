@@ -8,10 +8,11 @@ The goal of login2shiny is to …
 ## Installation
 
 You can install the released version of login2shiny from
-[CRAN](https://CRAN.R-project.org) with:
+[![git](man/figures/github.svg)](https://github.com/CarlBoneri/login2shiny)
+with:
 
 ``` r
-install.packages("login2shiny")
+remotes::install_github("CarlBoneri/login2shiny")
 ```
 
 ## Example
