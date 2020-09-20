@@ -2,7 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-
-
 .*history
 .git_init_*.sh
