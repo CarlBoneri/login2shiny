@@ -4,4 +4,4 @@
 .Ruserdata
 .*history
 .git_init_*.sh
-*.Rproj
+^.*\.Rproj$
